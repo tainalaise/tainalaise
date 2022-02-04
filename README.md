@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, I'm Tainã Laíse 👋
+- 👩‍🏫 I'm currently working 
+- I'm currently Data Science with R and Python
+- 
 <!--
 **tainalaise/tainalaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
